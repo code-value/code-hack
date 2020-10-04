@@ -4,6 +4,8 @@ e.g: 5! = 5*4*3*2*1 = 120; 1! = 1; 0! = 1 (special case)
 """
 
 # Using Loop
+
+
 def factorial(n):
     """
     n: Positive Integer
@@ -16,6 +18,8 @@ def factorial(n):
     return result
 
 # Using Recursion
+
+
 def fact(n):
     """
     n: Positive Integer
@@ -25,7 +29,10 @@ def fact(n):
         return 1
     elif n >= 1:
         return n * fact(n-1)
-        
+
+# Using one-liner
+def x(num): return 1 if num <= 1 else num*x(num-1)
+
 
 print(factorial(5))
 print(factorial(10))
@@ -33,6 +40,8 @@ print(factorial(10))
 print(fact(5))
 print(fact(10))
 
+print(x(5))
+print(x(10))
 # Output
 # 120
 # 3628800
