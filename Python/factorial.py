@@ -30,8 +30,7 @@ def fact(n):
     elif n >= 1:
         return n * fact(n-1)
 
-# Using one-liner
-def x(num): return 1 if num <= 1 else num*x(num-1)
+
 
 
 print(factorial(5))
@@ -40,8 +39,7 @@ print(factorial(10))
 print(fact(5))
 print(fact(10))
 
-print(x(5))
-print(x(10))
+
 # Output
 # 120
 # 3628800
