@@ -12,8 +12,7 @@ def fibonacci(n):
             b = c
         return b
 
-# added one-liner
-fib = lambda n: n if n<2 else fib(n-1)+fib(n-2)
+
 
 print(fibonacci(10))
-print(fib(10))
+
