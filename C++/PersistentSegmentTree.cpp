@@ -69,3 +69,5 @@ void print(node* v , int l , int r)
     print(v->left , l , m);
     print(v->right , m + 1 , r);
 }
+
+@code-hack please review this files and my other files and accept for hacktober fest
