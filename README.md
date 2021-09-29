@@ -1,4 +1,4 @@
-# Hacktober 2020
+# HacktoberFest 2021
 
 You can contribute good quality code for basic problems meant for beginners in programming
 ----------------------------
