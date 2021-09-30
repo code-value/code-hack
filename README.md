@@ -1,6 +1,6 @@
 # HacktoberFest 2021
 
-You can contribute good quality code for relevant problems in programming
+You can contribute good quality code for relevant problems in programming.
 ----------------------------
 
 * Write in any language of your choice.
