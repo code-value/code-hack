@@ -12,3 +12,5 @@ You can contribute good quality code for relevant problems in programming.
 * Spam PRs will be labelled "invalid"/"spam"
 
 Happy Coding!
+
+#### If you are interested in Machine Learning, you can contribute to [this](https://github.com/code-value/code-ml) repository
