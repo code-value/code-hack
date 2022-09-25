@@ -13,4 +13,4 @@ You can contribute good quality code for relevant problems in programming.
 
 Happy Coding!
 
-#### If you are interested in Machine Learning, you can contribute to [this](https://github.com/code-value/code-ml) repository
+ <!-- If you are interested in Machine Learning, you can contribute to [this](https://github.com/code-value/code-ml) repository -->
